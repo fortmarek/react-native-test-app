@@ -8,18 +8,6 @@
 // @ts-check
 
 const profiles = {
-  "0.60": {
-    react: "16.8.6",
-    "react-native": "^0.60.6",
-    "react-native-macos": "^0.60.0-microsoft.79",
-    "react-native-windows": undefined,
-  },
-  0.61: {
-    react: "16.9.0",
-    "react-native": "^0.61.5",
-    "react-native-macos": "^0.61.65",
-    "react-native-windows": undefined,
-  },
   0.62: {
     react: "16.11.0",
     "react-native": "^0.62.3",
